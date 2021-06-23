@@ -36,6 +36,8 @@ the page unaffected. Using component lifecycle methods, we can jump into
 specific points during this updating process using `shouldComponentUpdate` and
 `componentDidUpdate`.
 
+This is cool.
+
 #### `componentDidUpdate` and React Refs
 
 Let's start with `componentDidUpdate`. This method is called after every
