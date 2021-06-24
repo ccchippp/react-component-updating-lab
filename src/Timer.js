@@ -11,6 +11,7 @@ class Timer extends Component {
   }
 
   //Your code here
+  // Why aren't commits being recorded
 
   componentDidMount() {
     this.interval = setInterval(
